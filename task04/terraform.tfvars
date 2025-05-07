@@ -1,7 +1,0 @@
-resource_group_name = "cmaz-2olzzm40-mod4-rg"
-vnet_name           = "cmaz-2olzzm40-mod4-vnet"
-subnet_name         = "frontend"
-public_ip_name      = "cmaz-2olzzm40-mod4-pip"
-dns_name_label      = "cmaz-2olzzm40-mod4-nginx"
-nsg_name            = "cmaz-2olzzm40-mod4-nsg"
-vm_name             = "cmaz-2olzzm40-mod4-vm"
